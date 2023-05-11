@@ -1,6 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
+<img width="500" alt="logintodo" src="https://github.com/adityatupe-code/NextJs-TodoApp-Firebase/assets/114912746/3acd5b75-4d1e-4df0-beb7-999a6aa6413c">
 ## Getting Started
+<img width="500 alt="nexttodo" src="https://github.com/adityatupe-code/NextJs-TodoApp-Firebase/assets/114912746/5f80a294-be45-46d2-ae60-0e68eaa9f279">
+
 firebase## loginauth
 First, run the development server:
 
